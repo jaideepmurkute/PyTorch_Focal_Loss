@@ -21,4 +21,4 @@ python3 focal_loss_test.py
 
 
 
-<img src="focal_loss_plot.png" width="80%">
+<img src="focal_loss_plot_1.png" width="80%">
