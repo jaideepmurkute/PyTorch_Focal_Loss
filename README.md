@@ -4,8 +4,9 @@ Focal Loss implementation: focal_loss.py <br/>
 
 For Usage example and test:  
 ```python
-focal_loss_test.py <br/>
+focal_loss_test.py 
 ```
+<br/>
 
 
 
